@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhila-lanke" alt="nikhila-lanke" /></a> </p>
 
-- 🌱 I’m interested in **Web development, Java programming and data science**
+- 🌱 I’m interested in **Web development and data science**
 
 - 📫 How to reach me **nikhilalanke04@gmail.com**
 
