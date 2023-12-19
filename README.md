@@ -14,11 +14,11 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **nikhilalanke04@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Coding profiles:</h3>
 <p align="left">
+<a href="https://www.leetcode.com/lanke_nikhila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lanke_nikhila" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/nikhila_lanke" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nikhila_lanke" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nikhilalanke04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nikhilalanke04" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lanke_nikhila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lanke_nikhila" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/nikhilalanke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nikhilalanke" height="30" width="40" /></a>
 </p>
 
